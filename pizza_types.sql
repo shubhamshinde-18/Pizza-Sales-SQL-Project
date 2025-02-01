@@ -1,0 +1,1 @@
+select * from pizzahouse.pizza_types;
